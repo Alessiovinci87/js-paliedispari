@@ -1,0 +1,17 @@
+.container {
+    background-color: blue;
+    width: 31.25rem;
+    height: 31.25rem;
+}
+
+h1 {
+    color: aqua;
+    text-align: center;
+    padding-top: 9.375rem;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    padding-top: 9.375rem;
+}
